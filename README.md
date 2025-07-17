@@ -1,13 +1,22 @@
 # Investigating LMX1B Mutations in NPS Using Patient-Derived Organoids
 
-### Research Goal  
-Identify dysregulated miRNA profiles in Nail-Patella Syndrome (NPS) patient-derived 3D testicular organoids to:  
-- Discover novel biomarkers for NPS severity  
-- Develop targeted differentiation protocols for regenerative therapies  
+# Investigating LMX1B Mutations in Nail-Patella Syndrome (NPS) Using Patient-Derived Organoids
 
-### Key Components  
-1. **Genetic Analysis**: Pathogenic LMX1B variants from ClinVar ([Example Data](data/nps_genetic_variants.csv))  
-2. **Organoid Models**: Compare WT vs. NPS miRNA profiles (Nanostring data)  
-3. **Drug Screening**: AI-predicted compounds to restore normal spermatogenesis  
+## Project Description
+This repository contains code and data for analyzing LMX1B mutations in NPS using patient-derived organoids.  
+**Keywords:** LMX1B, Nail-Patella Syndrome, Organoids, Transcriptomics.
 
-![Workflow Diagram](images/workflow.png) *← Add later if you have visuals*
+## Data Sources
+- Whole-exome sequencing (WES) of patient-derived organoids.
+- Public databases (e.g., gnomAD, ClinVar).
+
+## Scripts
+- `scripts/analysis/lmx1b_variant_analysis.py`: Variant calling and annotation.
+- `scripts/analysis/organoid_quantification.R`: Organoid phenotypic analysis.
+
+## Usage
+```bash
+git clone https://github.com/your-username/LMX1B_NPS_Organoids.git
+cd LMX1B_NPS_Organoids/scripts/analysis
+python lmx1b_variant_analysis.py
+
