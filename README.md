@@ -2,9 +2,8 @@
 
 
 
-![Nail Patella Syndrome]!(<img width="1536" height="864" alt="nps" src="https://github.com/user-attachments/assets/d66fb672-283c-4d3f-9a11-593d071c3719" />
+![Nail Patella Syndrome]!<img width="1536" height="864" alt="nps" src="https://github.com/user-attachments/assets/d66fb672-283c-4d3f-9a11-593d071c3719" />
 
-)
 
 
 
